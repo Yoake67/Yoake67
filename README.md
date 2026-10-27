@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  ![Fajar Hidayat]{img/header-light.png}
+  ![Fajar Hidayat](img/header-light.png)
 </p>
 
 ### 👨🏻‍💻 About Me

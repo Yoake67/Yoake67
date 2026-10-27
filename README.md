@@ -10,9 +10,9 @@
   Software Engineer focused on backend systems, industrial software, and automation.
 </p>
 
-<p align="center">
-  ![Fajar Hidayat](img/header-light.png)
-</p>
+
+![Fajar Hidayat](img/header-light.png)
+
 
 ### 👨🏻‍💻 About Me
 

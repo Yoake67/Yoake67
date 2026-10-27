@@ -95,7 +95,7 @@
 
 <p align="center">
   <a href="https://www.Yoake67.dev"><img src="https://img.shields.io/badge/-Yoake67.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/fajarhidayat67"><img src="https://img.shields.io/badge/LinkedIn-.%20Fajar%20Hidayat-0A66C2?style=flat" /></a>
+  <a href="https://www.linkedin.com/in/fajarhidayat67"><img src="https://img.shields.io/badge/LinkedIn-20Fajar%20Hidayat-0A66C2?style=flat" /></a>
   <a href="https://www.instagram.com/fajarhidayyat"><img src="https://img.shields.io/badge/-@fajarhidayyat-E4405F?style=flat&logo=Instagram&logoColor=white" /></a>
 </p>
 

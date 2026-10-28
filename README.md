@@ -26,7 +26,7 @@
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
@@ -87,15 +87,18 @@
   <img src="https://streak-stats.demolab.com?user=Yoake67&theme=algolia&hide_border=true" alt="GitHub streak stats" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
+
+![alt text](image.png)
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yoake67&theme=react-dark&hide_border=true&area=true" alt="GitHub contribution graph" />
-</p>
+</p> -->
 
 ### 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.Yoake67.dev"><img src="https://img.shields.io/badge/-Yoake67.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/fajarhidayat67"><img src="https://img.shields.io/badge/LinkedIn-20Fajar%20Hidayat-0A66C2?style=flat" /></a>
+  <a href="https://www.linkedin.com/in/fajarhidayat67"><img src="https://img.shields.io/badge/LinkedIn-Fajar%20Hidayat-0A66C2?style=flat" /></a>
   <a href="https://www.instagram.com/fajarhidayyat"><img src="https://img.shields.io/badge/-@fajarhidayyat-E4405F?style=flat&logo=Instagram&logoColor=white" /></a>
 </p>
 

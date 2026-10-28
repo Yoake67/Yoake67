@@ -68,6 +68,19 @@
 ![ESP32](https://img.shields.io/badge/-ESP32-05122A?style=flat)&nbsp;
 ![Industrial Data Acquisition](https://img.shields.io/badge/-Industrial%20Data%20Acquisition-05122A?style=flat)
 
+**Editing Tool**
+
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Gitea](https://img.shields.io/badge/-Gitea-05122A?style=flat&logo=gitea)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![CI/CD](https://img.shields.io/badge/-CI/CD-05122A?style=flat&logo=githubactions)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![WSL](https://img.shields.io/badge/-WSL-05122A?style=flat&logo=windows)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)&nbsp;
+![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)
+
+
 ### ⚙️ GitHub Analytics
 
 <p align="center">

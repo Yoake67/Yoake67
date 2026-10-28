@@ -68,12 +68,11 @@
 ![ESP32](https://img.shields.io/badge/-ESP32-05122A?style=flat)&nbsp;
 ![Industrial Data Acquisition](https://img.shields.io/badge/-Industrial%20Data%20Acquisition-05122A?style=flat)
 
-**Editing Tool**
+**Editing**
 
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20After%20Effects-05122A?style=flat&logo=Adobe%20After%20Effects)&nbsp; 
 ![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)&nbsp;
 ![Blender](https://img.shields.io/badge/-blender-05122A?style=flat&logo=blender)&nbsp;
-![Davinci Resolve](https://img.shields.io/badge/-DavinciResolve-05122A?style=flat&logo=xmlns="http://www.w3.org/2000/svg")&nbsp;
+![Davinci Resolve](https://img.shields.io/badge/-davinciresolve-05122A?style=flat&logo=davinciresolve)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![WSL](https://img.shields.io/badge/-WSL-05122A?style=flat&logo=windows)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;

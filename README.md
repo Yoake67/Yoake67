@@ -27,9 +27,9 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin)&nbsp;
-<!-- ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp; -->
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
+<!-- ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp; -->
 
 **Framework**
 
@@ -38,8 +38,8 @@
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=codeigniter)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-<!-- ![Gin](https://img.shields.io/badge/-Gin-05122A?style=flat&logo=go)&nbsp; -->
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+<!-- ![Gin](https://img.shields.io/badge/-Gin-05122A?style=flat&logo=go)&nbsp; -->
 <!-- ![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte) -->
 
 **Databases**

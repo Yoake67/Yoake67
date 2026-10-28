@@ -70,9 +70,7 @@
 
 **Editing Tool**
 
-![Adobe Premiere](https://img.shields.io/badge/adobe%20premiere-%2331A8FF.svg?style=plastic&logo=adobe%20premiere&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) 
-![Adobe Lightroom](https://img.shields.io/badge/adobe%20lightroom-%2331A8FF.svg?style=plastic&logo=adobe%20lightroom&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20After%20Effects-05122A?style=flat&logo=Adobe%20After%20Effects)&nbsp; 
 ![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)&nbsp;
 ![Blender](https://img.shields.io/badge/-blender-05122A?style=flat&logo=blender)&nbsp;
 ![CI/CD](https://img.shields.io/badge/-CI/CD-05122A?style=flat&logo=githubactions)&nbsp;

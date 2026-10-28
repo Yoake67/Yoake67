@@ -70,7 +70,7 @@
 
 **Editing Tool**
 
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-05122A?style=flat&logo=adobe%20photoshop)&nbsp;
 ![Gitea](https://img.shields.io/badge/-Gitea-05122A?style=flat&logo=gitea)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![CI/CD](https://img.shields.io/badge/-CI/CD-05122A?style=flat&logo=githubactions)&nbsp;

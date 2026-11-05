@@ -6,7 +6,7 @@
 <h1 align="center">Hello, I'm Fajar Hidayat 👋</h1>
 
 <p align="center">
-  Software Engineer focused on backend systems, industrial software, and automation.
+  Software Engineer and Mobile Developer Enthusiast.<!-- Software Engineer focused on backend systems, industrial software, and automation. -->
 </p>
 
 
@@ -15,9 +15,11 @@
 
 ### 👨🏻‍💻 About Me
 
-- Software Engineer with hands-on experience in backend development and industrial software.
+Fresh Graduate in Information Systems from Universitas Teknokrat Indonesia with a GPA of 3.95, recognized as the 2nd Best Graduate in the Information Systems Department. Experienced in Machine Learning, Web Development, and Mobile Application Development through academic and personal projects. Proficient in Python, JavaScript, PHP, Kotlin, and MySQL, with additional expertise in Video Editing and Graphic Design. A fast learner with strong adaptability and problem-solving skills, eager to embrace new technologies and committed to building a successful career as a Software Engineer.
+
+<!-- - Software Engineer with hands-on experience in backend development and industrial software.
 - Built web applications, database-driven systems, Linux-based services, and production monitoring tools.
-- Worked with PLC integration, data acquisition, CI/CD, and cloud technologies.
+- Worked with PLC integration, data acquisition, CI/CD, and cloud technologies. -->
 
 ### 🛠 Tech Stack
 

@@ -3,7 +3,7 @@
 **Yoake67/Yoake67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hello, I'm Fajar Hidayat 👋</h1>
+<h1 align="center">Hello, I'm Yoake 👋</h1>
 
 <p align="center">
   Software Engineer and Mobile Developer Enthusiast.<!-- Software Engineer focused on backend systems, industrial software, and automation. -->

@@ -15,9 +15,9 @@
 
 ### 👨🏻‍💻 About Me
 
-<div style="text-align: justify">
+<p align="justify">
   Fresh Graduate in Information Systems with experienced in Machine Learning, Web Development, and Mobile Application Development through academic and personal projects. Proficient in Python, JavaScript, PHP, Kotlin, and MySQL, with additional expertise in Video Editing and Graphic Design. A fast learner with strong adaptability and problem-solving skills, eager to embrace new technologies and committed to building a successful career as a Software Engineer. 
-</div>
+</p>
 
 <!-- - Software Engineer with hands-on experience in backend development and industrial software.
 - Built web applications, database-driven systems, Linux-based services, and production monitoring tools.
